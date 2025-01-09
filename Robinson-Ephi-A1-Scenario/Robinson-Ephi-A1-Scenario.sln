@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robinson-Ephi-A1-Scenario", "Robinson-Ephi-A1-Scenario.csproj", "{09AC72F1-37A1-4C9E-81FB-640700C6F88E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AC72F1-37A1-4C9E-81FB-640700C6F88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AC72F1-37A1-4C9E-81FB-640700C6F88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AC72F1-37A1-4C9E-81FB-640700C6F88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AC72F1-37A1-4C9E-81FB-640700C6F88E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
